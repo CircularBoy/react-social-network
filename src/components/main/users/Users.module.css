@@ -1,0 +1,31 @@
+.userWrap {
+  display: flex;
+}
+
+.person {
+
+}
+
+.avatar {
+  margin-bottom: 10px;
+  width: 100px;
+  display: block;
+  height: auto;
+}
+
+.avatar img {
+  width: 100%;
+}
+
+.about {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  flex: 1;
+  max-width: 300px;
+  padding: 0 40px;
+}
+
+.pagesActive {
+  font-weight: 600
+}

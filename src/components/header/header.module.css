@@ -1,0 +1,33 @@
+.header {
+  grid-column: 1 / -1;
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px
+}
+
+.logo {
+  max-width: 120px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.nav {
+  flex: 1;
+  padding: 20px 40px;
+  list-style: none;
+}
+
+.nav li + li {
+  margin-top: 10px;
+}
+
+.nav li a {
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  text-decoration: underline;
+}
