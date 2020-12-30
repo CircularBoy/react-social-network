@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CircularBoy/react-social-network/static/css/main.204f96bb.chunk.css",
+    "main.js": "/CircularBoy/react-social-network/static/js/main.5e7bb044.chunk.js",
+    "main.js.map": "/CircularBoy/react-social-network/static/js/main.5e7bb044.chunk.js.map",
+    "runtime-main.js": "/CircularBoy/react-social-network/static/js/runtime-main.139db5a1.js",
+    "runtime-main.js.map": "/CircularBoy/react-social-network/static/js/runtime-main.139db5a1.js.map",
+    "static/js/2.027c68e1.chunk.js": "/CircularBoy/react-social-network/static/js/2.027c68e1.chunk.js",
+    "static/js/2.027c68e1.chunk.js.map": "/CircularBoy/react-social-network/static/js/2.027c68e1.chunk.js.map",
+    "static/js/3.e1d73028.chunk.js": "/CircularBoy/react-social-network/static/js/3.e1d73028.chunk.js",
+    "static/js/3.e1d73028.chunk.js.map": "/CircularBoy/react-social-network/static/js/3.e1d73028.chunk.js.map",
+    "index.html": "/CircularBoy/react-social-network/index.html",
+    "static/css/main.204f96bb.chunk.css.map": "/CircularBoy/react-social-network/static/css/main.204f96bb.chunk.css.map",
+    "static/js/2.027c68e1.chunk.js.LICENSE.txt": "/CircularBoy/react-social-network/static/js/2.027c68e1.chunk.js.LICENSE.txt",
+    "static/media/avatar.518af1f2.png": "/CircularBoy/react-social-network/static/media/avatar.518af1f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139db5a1.js",
+    "static/js/2.027c68e1.chunk.js",
+    "static/css/main.204f96bb.chunk.css",
+    "static/js/main.5e7bb044.chunk.js"
+  ]
+}
